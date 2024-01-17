@@ -42,4 +42,4 @@
    - Follow the prompts to enter moves in standard chess notation.
 
 #### 8. License:
-   - No license information is provided in the code.
+   - This project doesn't have a lisence.
