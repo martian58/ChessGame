@@ -41,5 +41,12 @@
    - Execute the code to start the chess game.
    - Follow the prompts to enter moves in standard chess notation.
 
-#### 8. License:
-   - This project doesn't have a lisence.
+#### 8. Authors:
+   Created by:
+   
+    Heydarova Nargiz
+    Guliyev Magsud
+    Mirzaguliyeva Farah
+    Alizade Fuad
+
+   
