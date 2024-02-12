@@ -41,12 +41,4 @@
    - Execute the code to start the chess game.
    - Follow the prompts to enter moves in standard chess notation.
 
-#### 8. Authors:
-   Created by:
-   
-    Heydarova Nargiz
-    Guliyev Magsud
-    Mirzaguliyeva Farah
-    Alizade Fuad
-
    
